@@ -1,10 +1,12 @@
 import Editor from './components/Editor'
+import Navbar from './components/Navbar'
 
 function App() {
   return (
     <>
-      <div className="flex w-screen h-screen">
-            <Editor />
+      <div className="w-screen h-screen">
+            <Navbar/>
+            <Editor/>
       </div>
     </>
   )
