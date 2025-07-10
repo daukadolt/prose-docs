@@ -1,6 +1,6 @@
 # Prose Docs
 
-> **Note:** This project referenced [yjs-scalable-ws-backend](https://github.com/kapv89/yjs-scalable-ws-backend) for implementing the server-side WebSocket protocol for collaborative editing.
+> **Note:** The server-side WebSocket protocol for collaborative editing in this project was inspired by the [Yjs community discussion on syncing servers and horizontal scaling](https://discuss.yjs.dev/t/syncing-servers-horizontal-scaling/1677) and the implementation in [yjs-scalable-ws-backend](https://github.com/kapv89/yjs-scalable-ws-backend).
 
 Collaborative document editor with AI-powered spell check.
 
